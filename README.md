@@ -1,5 +1,5 @@
-# oneNeuron
-oneNeuron | perceptron
+# SingleNeuron
+SingleNeuron | perceptron
 
 ### commands
 
